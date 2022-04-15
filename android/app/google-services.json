@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "505232787165",
+    "project_id": "hotel-manager-admin",
+    "storage_bucket": "hotel-manager-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505232787165:android:8c0636e5905e8168ffbd34",
+        "android_client_info": {
+          "package_name": "com.example.hotel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-rDD1SpYgrPzl1kPuMl6qKw76uDHfM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505232787165:android:60e357b78071208effbd34",
+        "android_client_info": {
+          "package_name": "com.example.hotel_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505232787165-5dp9psjmu6hq78q7obisoun57kna350q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotel_manager",
+            "certificate_hash": "3bb128f026fe9bcaabd873293b436d1cdc3bbb84"
+          }
+        },
+        {
+          "client_id": "505232787165-72ejn5sdebt1p9fo8hf1n44po4j5rb0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotel_manager",
+            "certificate_hash": "065da10701705206ca33519d22bcada04da19cc2"
+          }
+        },
+        {
+          "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-rDD1SpYgrPzl1kPuMl6qKw76uDHfM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505232787165:android:97b84c26ec16ca3dffbd34",
+        "android_client_info": {
+          "package_name": "com.example.hotel_manager_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505232787165-19d1pdf6bfv4sjeilrr9jfmlsve5r9ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotel_manager_admin",
+            "certificate_hash": "065da10701705206ca33519d22bcada04da19cc2"
+          }
+        },
+        {
+          "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-rDD1SpYgrPzl1kPuMl6qKw76uDHfM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505232787165-pjguvucdrp7d5tdcbh0t8sdo7rnv4l9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
